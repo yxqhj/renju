@@ -1,9 +1,10 @@
 package main
 
 import (
+	"renju/gobangIcon"
+
 	"fyne.io/fyne"
 	"fyne.io/fyne/app"
-	"github.com/yxqhj/renju/gobangIcon"
 )
 
 func main() {
